@@ -1,2 +1,2 @@
-# ML_DL_and_other_stuff
+# ML_projects
 Some projects I've done.
